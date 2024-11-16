@@ -1,0 +1,40 @@
+body {
+    background-color: #b2d4f9;
+    
+    
+    font-family: Arial, sans-serif;
+     
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #0e0909;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #37434f;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0976eb;
+}
+
+.form-container {
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    width: 400px;
+    border-radius: 60px;
+    margin-left: 50%; 
+    margin-bottom: 70px;
+  
+}
+
+
+
